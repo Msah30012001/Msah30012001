@@ -2,8 +2,6 @@
 
 [![@msah30012001's Holopin board](https://holopin.io/api/user/board?user=msah30012001)](https://holopin.io/@msah30012001)
 
-
-<!--
 **Msah30012001/Msah30012001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
